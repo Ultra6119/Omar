@@ -1,6 +1,7 @@
 # Hi, I'm Omar 👋
 
 🎓 Infrastructure Digital : Systems & Networks (OFPPT)
+
 🔐 Cybersecurity Practitioner (OFPPT)
 
 ## Certifications 
